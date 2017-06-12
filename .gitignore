@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+__pycache__/
+build/
+dist/
+*.DS_Store
+googleapis_youtube.egg-info
