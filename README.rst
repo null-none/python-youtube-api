@@ -1,5 +1,7 @@
-# python-youtube-api
-Use youtube api.
+Class for use https://developers.google.com/youtube/v3/docs/
+
+.. image:: https://badge.fury.io/py/googleapis_youtube.svg
+    :target: https://badge.fury.io/py/googleapis_youtube
 
 
 =======
